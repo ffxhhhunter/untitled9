@@ -17,6 +17,7 @@ public class Person {
     private String email;
     private int id;
     private int age;
+    private a = 0;
 
     public Person() {
     }
